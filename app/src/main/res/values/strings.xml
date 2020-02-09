@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapAPp</string>
+    <string name="places_api_key">AIzaSyBS6nwG_9l-KYmRg9E5dQ3e08GuByz9tfc</string>
+    <string name="error_api_key" translatable="false">No API key defined in gradle.properties</string>
+</resources>
